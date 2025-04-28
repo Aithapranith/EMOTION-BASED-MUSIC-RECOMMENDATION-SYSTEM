@@ -4,7 +4,8 @@ This software recognizes human faces and their corresponding emotions from a vid
 
 ## Deep Learning Model
 
-The model used is from this [research paper](https://github.com/oarriaga/face_classification/blob/master/report.pdf) written by Octavio Arriaga, Paul G. Plöger, and Matias Valdenegro.
+The model used is from this "Real-time Convolutional Neural Networks for
+ Emotion and Gender Classification" [research paper] written by Octavio Arriaga, Paul G. Plöger, and Matias Valdenegro.
 
 
 
@@ -12,5 +13,6 @@ The model used is from this [research paper](https://github.com/oarriaga/face_cl
 
 * Computer vision powered by OpenCV.
 * Neural network scaffolding powered by Keras with Tensorflow.
-* Convolutional Neural Network (CNN) deep learning architecture is from this [research paper](https://github.com/oarriaga/face_classification/blob/master/report.pdf).
-* Pretrained Keras model and much of the OpenCV code provided by GitHub user [oarriaga](https://github.com/oarriaga).
+* Convolutional Neural Network (CNN) deep learning architecture is from this "Real-time Convolutional Neural Networks for
+ Emotion and Gender Classification" - [research paper].
+* Pretrained Keras model and much of the OpenCV code provided by GitHub user [Aitha_Pranith](https://github.com/Aithapranith/EMOTION-BASED-MUSIC-RECOMMENDATION-SYSTEM).
